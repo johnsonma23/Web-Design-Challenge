@@ -1,0 +1,31 @@
+body{
+    background-color: lightslategray;}
+
+.description-header{
+    font-size: 45px;
+    color:whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.navbar a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+/* Links inside the dropdown */
+.dropdown-item {
+    background-color: grey;
+    text-decoration: none;
+    display: block;
+    color: whitesmoke;
+    font-size: 12px;
+}
+
+.imageNav-content{
+    font-size: 45px;
+    color:whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.imageNav-photo{
+    padding: unset;
+    margin-inline-start: unset;
+}
