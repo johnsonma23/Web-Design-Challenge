@@ -1,0 +1,186 @@
+.Title{
+    color:whitesmoke;
+    margin-left: -180px;
+    margin:0px;
+    background-color: rgb(160, 173, 173);
+    padding: 20px;
+}
+nav{
+  background-color: grey;
+}
+/* Navigation Bar*/
+.navbar-brand{
+    padding-top: 30px;
+    margin-bottom: 10px;
+}
+
+.navbar{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+  }
+  nav.navbar{
+      background-color: skyblue;
+  }
+  
+  /* Links inside the navbar */
+  .navbar a {
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    color:whitesmoke;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+  
+  /* The dropdown container */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+   
+
+  /* Links inside the dropdown */
+.dropdown-item {
+    background-color: grey;
+    text-decoration: none;
+    display: block;
+    font-size: 15px;
+
+  }
+
+
+/* Dropdown Content (Hidden by Default)*/ 
+.dropdown-content {
+    display: none;
+    position: absolute;
+    color: black;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px ;
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px;
+    text-decoration: none;
+    display: block;
+  }
+
+
+/* Dropdown Button */
+.dropbtn {
+    background-color: grey;
+    color:black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+
+/* Content header*/
+.Heading2{
+    color:#39c599;
+    font-family: "Times New Roman";
+    font-weight: bold;
+
+} 
+
+  
+
+.description-content {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 90px;
+    padding: 10px 30px 5px;
+    color: black;
+    background-color: white;
+    border: black 3.0px;
+}
+
+.imageNav-content {
+    margin-top: 90px;
+    margin-bottom: 90px;
+    padding: 10px 30px 40px;
+    color: black;
+    background-color: white;
+    border: black 1.5px;
+}
+
+.imageNav-header {
+    padding-top: 15px;
+    padding-left: 4px;
+    color: #39c599;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Times New Roman";
+}
+
+.text_over_image {
+    position: relative;
+    color:black;
+    text-align: center;
+}
+
+img {
+    position: relative;
+    width: 85% !important;
+    height: 85% !important;
+}
+
+.description-image {
+    float: right;
+    width: 80% !important;
+    height: 80% !important;
+}
+
+p {
+    color: #414d4a;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.active,
+.imageNav-photo:hover {
+    border-color: #38ab87;
+    border-style: solid;
+    border: solid black 1.5px;
+}
+
+/* Comparison page */
+
+
+
+.Background{
+    background-color: slategrey;
+
+}
+
+.Background_Com{
+    background-color: lightslategray;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+    
+
+
+
+
+
+
+    
